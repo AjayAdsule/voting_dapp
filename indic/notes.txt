@@ -1,0 +1,15 @@
+
+********************  Voting contract  ********************
+ sepolia voting project deploy address =0xcF3Ac8c8e14229046Ab191533Db9681133349AF0
+//? etherscan url =https://sepolia.etherscan.io/tx/0x1c43099427ded85ee3a1236709f0532458d6794802cd4618c955bb40914e64b3
+
+
+
+********************  TokenMarket place deploy contract  ********************
+https://sepolia.etherscan.io/tx/0x35b0a25a9f37ac01bc575e866e515bcf53b1c15ce6f231d51b6419f992b40066
+--Address--
+0xB765a985000a7268d76d97C9c41f09068f83FbdA
+
+
+******************** Token contract  ********************
+0x542D5c51300CFe7b544564aC689948F7dA79853b
